@@ -7,4 +7,4 @@ In this project I have followed MVP pattern for code maintainablity, easy to rea
 
 
 ## Download
-You can download the apk here [LetsServiceApp](../../raw/master/app/build/outputs/apk/app-debug.apk)
+You can download the apk here [LetsServiceApp](../../raw/master/app/app-debug.apk)
